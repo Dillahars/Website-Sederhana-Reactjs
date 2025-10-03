@@ -1,0 +1,23 @@
+#contact {
+  background: #dedede;
+  padding: 50px 0px 50px 0px;
+}
+
+.footer {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  text-decoration: none;
+}
+
+.footer-section {
+  width: 20%;
+  margin: 0 auto;
+  text-decoration: none;
+}
+
+.Logo-whatsapp {
+  text-decoration: none;
+}
