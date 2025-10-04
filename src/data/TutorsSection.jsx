@@ -1,12 +1,11 @@
 export const tutorsSection = {
-    content: `<p className="deskripsi">Our Top Tutors</p>
-                            <h2>Tutors</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, optio!</p>`
+    content: `<p className="deskripsi">Our Top Developer</p>
+                            <h2>React Developer</h2>
+                            <p>Rakha Abdillah Nugraha <br> a handsome dude chillin' in Depok</p>`
 }
 
 export const tutorsList = [
     {
-        image: 'https://i.postimg.cc/zBPdB0zd/20250706-090555.jpg',
-        name: 'Rakha Abdillah Nugraha'
+        image: 'public/img/RAKA.jpg'
     },
 ]
