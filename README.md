@@ -9,3 +9,6 @@ Currently, two official plugins are available:
 
 - Website Preview 
 https://i.postimg.cc/JzbJzCZS/68-DA521-D-B4-C7-4-E38-99-AA-D1-A86-BDA75-E2.png
+
+- Website Links
+https://website-sederhana-reactjs-psi.vercel.app/
