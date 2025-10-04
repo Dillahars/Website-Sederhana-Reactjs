@@ -16,7 +16,7 @@ export const contactSection = [
     {
         content: `<h3>Social</h3>
                    <a className="Logo-whatsapp" href="https://wa.me/6289603540379?text=Aku%20mau%20belajar%20koding%20di%20RumahRakha!!"><p><b>Whatsapp: </b>Programming di RumahRakha</p></a>`
-                                                                                                                                                                                    
+                                                  
 
     },
 ]

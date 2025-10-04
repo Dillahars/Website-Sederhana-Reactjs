@@ -6,6 +6,6 @@ export const tutorsSection = {
 
 export const tutorsList = [
     {
-        image: 'public/img/RAKA.jpg'
-    },
+        image: `public/RAKA.jpg`
+    }
 ]
